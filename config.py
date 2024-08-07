@@ -22,7 +22,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 # Chat id of a group for logging bot's activities
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", -1002067001953))
 
-# Get this value from @MissRose_Bot on Telegram by /id
+# Get this value from @RIYA_XMUSIC_robot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID",6256542475))
 
 # Fill Queue Limit . Example - 15
